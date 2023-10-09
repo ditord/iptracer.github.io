@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #333; /* Dark gray background */
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #111;
+    padding: 20px 0;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo {
+    width: 120px;
+}
+
+.hero {
+    background-image: url('netflix-background.jpg'); /* Replace with your background image */
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    text-align: center;
+}
+
+.hero-title {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.ip-box {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    border: 2px solid #fff; /* White border */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.ip-address {
+    font-size: 36px;
+    font-weight: bold;
+}
