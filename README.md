@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://www.iptracer.me">
-    <img src="website.jpeg" alt="IP Tracer" width="200">
+  [www.iptracer.me](https://www.iptracer.me)
   </a>
 </p>
 
