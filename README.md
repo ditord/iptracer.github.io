@@ -32,7 +32,7 @@ IP Tracer is a straightforward web application designed to provide you with real
 
 <p align="center">
   <a href="https://www.iptracer.me">
-    <img src="screenshot.png" alt="IP Tracer Screenshot" width="80%">
+    <img src="website.jpeg" alt="IP Tracer Screenshot" width="80%">
   </a>
 </p>
 
