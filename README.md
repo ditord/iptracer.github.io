@@ -1,8 +1,3 @@
-<p align="center">
-  [www.iptracer.me](https://www.iptracer.me)
-  </a>
-</p>
-
 <h1 align="center">IP Tracer</h1>
 
 <p align="center">
