@@ -4,22 +4,6 @@
   A user-friendly web application for tracing and displaying your IP address.
 </p>
 
----
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Introduction
 
 IP Tracer is a straightforward web application designed to provide you with real-time information about your current IP address. Its simplicity and user-friendly interface make it a useful tool for quick IP address checks. Additionally, IP Tracer allows you to copy your IP address to the clipboard with a single click, streamlining the process.
