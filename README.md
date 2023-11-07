@@ -74,5 +74,3 @@ For questions, feedback, or support, please contact the project owner:
 We hope you find IP Tracer helpful!
 
 ---
-
-[www.iptracer.me](https://www.iptracer.me)
